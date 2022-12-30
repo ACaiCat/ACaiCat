@@ -1,5 +1,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ACaiCat&theme=highcontrast&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&theme=highcontrast" />
 
 >自学C#中
 
