@@ -1,5 +1,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ACaiCat&theme=highcontrast&show_icons=true&count_private=true" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&theme=buefy&hide_border=true"/>
 >自学C#中
 
 😇 语言: Python, CSharp
