@@ -1,5 +1,5 @@
-# Hi there 👋🏻
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Note+Mono&size=26&pause=1000&color=000000&background=FFE8E500&vCenter=true&random=false&width=435&lines=I+am+Cai........;%E6%88%91%E6%98%AFCai......)](https://git.io/typing-svg)
+![](https://komarev.com/ghpvc/?username=ACaiCat)
 - 🎓 一个可怜的住宿的单休的高中生...
 
 - 📫 邮箱: 13110818005@qq.com
@@ -16,6 +16,8 @@
 ![Steam Card]
 ## 原神
 ![genshin-image]
+## ???
+<img src="https://raw.githubusercontent.com/ACaiCat/ACaiCat/main/assets/github-contribution-grid-snake.svg">
 
 
 
