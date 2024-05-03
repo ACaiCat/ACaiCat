@@ -2,7 +2,6 @@
 
 ## 统计信息
 ![stats]
-
 ## 编程语言
 ![language]
 ## Steam
@@ -19,4 +18,5 @@
 [language]: https://github-readme-stats.vercel.app/api/top-langs?username=ACaiCat&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true
 
 [genshin-image]: https://genshin-card.himiku.com/rand/354435533.png
-[Steam Card]:https://card.yuy1n.io/card/76561198944480119/tokyonight,badge,group
+
+[Steam Card]:https://card.yuy1n.io/card/76561198944480119/dark,badge,group,bg-game
