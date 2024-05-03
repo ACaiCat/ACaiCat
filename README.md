@@ -16,8 +16,6 @@
 ![Steam Card]
 ## 原神
 ![genshin-image]
-## ???
-<img src="https://raw.githubusercontent.com/ACaiCat/ACaiCat/main/assets/github-contribution-grid-snake.svg">
 
 
 
