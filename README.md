@@ -1,7 +1,22 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ACaiCat&theme=highcontrast&show_icons=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&theme=buefy&hide_border=true"/>
->自学C#中
+# Cai
 
-😇 语言: Python, CSharp
+## 统计信息
+![stats]
 
-⚡ QQ: [3042538328](http://tool.gljlw.com/qq/?qq=3042538328) / Cai
+## 编程语言
+![language]
+## Steam
+![Steam Card]
+## 原神
+![genshin-image]
+
+
+
+[header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=Cai(ACaiCat)&fontSize=45
+[moe-counter]: https://count.getloli.com/get/@ACaiCat?theme=rule34
+
+[stats]: https://github-readme-stats.vercel.app/api?username=ACaiCat&locale=cn&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true
+[language]: https://github-readme-stats.vercel.app/api/top-langs?username=ACaiCat&locale=cn&show_icons=true&theme=transparent&card_width=470&hide_border=true
+
+[genshin-image]: https://genshin-card.himiku.com/rand/354435533.png
+[Steam Card]:https://card.yuy1n.io/card/76561198944480119/tokyonight,badge,group
