@@ -3,7 +3,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)![C#](https://img.shields.io/badge/-C%23-green?style=plastic&logo=CSharp)![Python](https://img.shields.io/badge/-Python-lightblue?style=plastic&logo=Python)
 - 🎓 一个可怜的住宿的单休的高中生...
 
-- 📫 EMAIL: 13110818005@qq.com
+- 📫 Email: 13110818005@qq.com
   
 - 🐧 QQ：3042538328
 
