@@ -24,7 +24,7 @@
 [header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=Cai(ACaiCat)&fontSize=45
 [moe-counter]: https://count.getloli.com/get/@ACaiCat?theme=rule34
 
-[stats]: https://github-readme-stats.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_title=true
+[stats]: https://github-readme-stats.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews,prs_merged&hide_title=true
 [language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&hide_title=true&show_icons=true
 
 [genshin-image]: https://genshin-card.himiku.com/[47,48,49,51,10,0,4,67,89,79]/354435533.png
