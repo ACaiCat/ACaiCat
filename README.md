@@ -8,7 +8,7 @@
   
 - 🐧 QQ：3042538328
 
-- 📅 Active Time：Saturday 20:00 - Sunday 14:00
+- 📅 Active Time：Day Time
 
 
 ## 📈Github Stats
