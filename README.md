@@ -2,7 +2,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![C#](https://img.shields.io/badge/-C%23-green?style=plastic&logo=CSharp)![Python](https://img.shields.io/badge/-Python-lightblue?style=plastic&logo=Python)
-- 🎓 A high school senior preparing for the National College Entrance Examination (Gaokao)...
+- 🎓 A prospective college student! ✨
 
 - 📫 Email: 13110818005@qq.com
   
