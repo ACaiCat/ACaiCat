@@ -13,6 +13,8 @@
 
 ## 📈Github Stats
 ![stats]  
+## ⏲WakaTime
+![time]  
 ## 🎮Steam (Code: 984214391)
 ![Steam Card]
 ## ✨Genshin (Seldom)
@@ -22,7 +24,7 @@
 
 [header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=Cai(ACaiCat)&fontSize=45
 [moe-counter]: https://count.getloli.com/get/@ACaiCat?theme=rule34
-
+[time]: https://github-readme-stats.vercel.app/api/wakatime?username=ACaiCat&layout=compact  
 [stats]: https://github-readme-stats.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews,prs_merged
 [language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&show_icons=true
 
