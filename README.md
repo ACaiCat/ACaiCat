@@ -2,7 +2,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![C#](https://img.shields.io/badge/-C%23-green?style=plastic&logo=CSharp)![Python](https://img.shields.io/badge/-Python-lightblue?style=plastic&logo=Python)
-- 🎓 A prospective college student! ✨
+- 🎓 A prospective college student! (604/750)✨ 
 
 - 📫 Email: 13110818005@qq.com
   
