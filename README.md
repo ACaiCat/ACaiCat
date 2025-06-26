@@ -17,8 +17,6 @@
 ![time]  
 ## 🎮Steam (Code: 984214391)
 ![Steam Card]
-## ✨Genshin (Seldom)
-![genshin-image]
 
 
 
@@ -27,7 +25,5 @@
 [time]: https://github-readme-stats.vercel.app/api/wakatime?username=ACaiCat&layout=compact  
 [stats]: https://github-readme-stats.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews,prs_merged
 [language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&show_icons=true
-
-[genshin-image]: https://genshin-card.himiku.com/[47,48,49,51,10,0,4,67,89,79]/354435533.png
 
 [Steam Card]:https://card.yuy1n.io/card/76561198944480119/dark,en,badge,bg-game,badges,games,reviews
