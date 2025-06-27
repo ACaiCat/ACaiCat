@@ -23,7 +23,7 @@
 
 [header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=120&text=Cai(ACaiCat)&fontSize=45
 [moe-counter]: https://count.getloli.com/get/@ACaiCat?theme=rule34
-[time]: https://github-readme-stats.vercel.app/api/wakatime?username=ACaiCat&layout=compact  
+[time]: https://github-readme-stats.vercel.app/api/wakatime?username=ACaiCat&layout=compact&cache_seconds=21600  
 [stats]: https://github-readme-stats.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews,prs_merged&cache_seconds=21600
 [language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ACaiCat&layout=compact&show_icons=true
 
