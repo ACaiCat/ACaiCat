@@ -15,10 +15,10 @@
 - 📅 Active Time：Any Time
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews&cache_seconds=21600&include_all_commits=true)
+![Stats](https://github-readme-stats-cai.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews&cache_seconds=21600&include_all_commits=true)
 
 ### ⏲ WakaTime
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ACaiCat&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell%20script,gitignore%20file,solution%20file,il,project%20file%20properties,toml,yaml,git,textmate,docker%20file,batchfile,csv/tsv,text,csv,.env%20file,gettext%20catalog,git%20config,sql,groovy,http,java%20properties,csproj,msbuild%20targets%20file)
+![WakaTime Stats](https://github-readme-stats-cai.vercel.app/api/wakatime?username=ACaiCat&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell%20script,gitignore%20file,solution%20file,il,project%20file%20properties,toml,yaml,git,textmate,docker%20file,batchfile,csv/tsv,text,csv,.env%20file,gettext%20catalog,git%20config,sql,groovy,http,java%20properties,csproj,msbuild%20targets%20file)
 
 ### 🎮 Steam
 ![Steam Card](https://card.yuy1n.io/card/76561198944480119/dark,en,badge,bg-game,badges,games,reviews)
