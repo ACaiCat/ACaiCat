@@ -6,7 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 
-- 🎓 A new Fuzhou University student!✨ 
+- 🎓 A freshman at Fuzhou University!✨ 
 
 - 📫 Email: 13110818005@qq.com
   
