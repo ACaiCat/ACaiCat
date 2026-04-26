@@ -10,15 +10,10 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 
 - 🎓 A freshman at Fuzhou University (Software Engineering) ✨ 
-
-- 📫 Email: 13110818005@qq.com
-  
-- 🐧 QQ：3042538328
-
 - 📅 Active Time：🌙 Night
 
 ### 📈 GitHub Stats
-![Stats](https://github-readme-stats-cai.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews&cache_seconds=21600&include_all_commits=true)
+![Stats](https://github-readme-stats-cai.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews&cache_seconds=600&include_all_commits=true)
 
 ### ⏲ WakaTime
 ![WakaTime Stats](https://github-readme-stats-cai.vercel.app/api/wakatime?username=ACaiCat&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell%20script,gitignore%20file,solution%20file,il,project%20file%20properties,toml,yaml,git,textmate,docker%20file,batchfile,csv/tsv,text,csv,.env%20file,gettext%20catalog,git%20config,sql,groovy,http,java%20properties,csproj,msbuild%20targets%20file,icalendar,go.mod,properties,http%20request,protocol%20buffer,protobuf,html,docker,jupyter,caddyfile,config,patch,cshtml,thrift,diff,scss,makefile,prolog,shrinker%20config%20file,thinclientfiletype,editorconfig,xml%20solution%20file,microsoft%20visual%20studio%20solution,json-lines)
