@@ -9,14 +9,14 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 
-- 🎓 A freshman at Fuzhou University (Software Engineering) ✨ 
+- 🎓 A student at Fuzhou University (Software Engineering) ✨ 
 - 📅 Active Time：🌙 Night
 
 ### 📈 GitHub Stats
 ![Stats](https://github-readme-stats-cai.vercel.app/api?username=ACaiCat&show_icons=true&show=reviews&cache_seconds=600&include_all_commits=true)
 
 ### ⏲ WakaTime
-![WakaTime Stats](https://github-readme-stats-cai.vercel.app/api/wakatime?username=ACaiCat&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell%20script,gitignore%20file,solution%20file,il,project%20file%20properties,toml,yaml,git,textmate,docker%20file,batchfile,csv/tsv,text,csv,.env%20file,gettext%20catalog,git%20config,sql,groovy,http,java%20properties,csproj,msbuild%20targets%20file,icalendar,go.mod,properties,http%20request,protocol%20buffer,protobuf,html,docker,jupyter,caddyfile,config,patch,cshtml,thrift,diff,scss,makefile,prolog,shrinker%20config%20file,thinclientfiletype,editorconfig,xml%20solution%20file,microsoft%20visual%20studio%20solution,json-lines,gradle,image%20(svg),c%2Fc%2B%2B,ink)
+![WakaTime Stats](https://github-readme-stats-cai.vercel.app/api/wakatime?username=ACaiCat&layout=compact&cache_seconds=21600&hide=xml,ini,json,markdown,other,shell%20script,gitignore%20file,solution%20file,il,project%20file%20properties,toml,yaml,git,textmate,docker%20file,batchfile,csv/tsv,text,csv,.env%20file,gettext%20catalog,git%20config,sql,groovy,http,java%20properties,csproj,msbuild%20targets%20file,icalendar,go.mod,properties,http%20request,protocol%20buffer,protobuf,html,docker,jupyter,caddyfile,config,patch,cshtml,thrift,diff,scss,makefile,prolog,shrinker%20config%20file,thinclientfiletype,editorconfig,xml%20solution%20file,microsoft%20visual%20studio%20solution,json-lines,gradle,image%20(svg),c%2Fc%2B%2B,ink,json5,ssh%20config,tsconfig,nginx%20configuration%20file,class,squidconf,ssh%20key,jinja,modula-2)
 
 ### 🎮 Steam
 [![Steam Card](https://card.yuy1n.io/card/76561198944480119/dark,badge,en,bg-game,badges,games,reviews)](https://steamcommunity.com/profiles/76561198944480119/)
